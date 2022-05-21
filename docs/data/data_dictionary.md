@@ -17,7 +17,7 @@ La siguiente tabla describe las columnas que posee el conjunto de datos usados p
 | smoking_status | CAT | "formerly smoked" si la persona furma de manera cotidiana. "never smoked" si no ha fumado nunca. "smokes" si fuma ocasionalmente. "Unknown" significa que no se tiene información sobre la persona sobre si fuma o no.
 | stroke | INT | 1 si la persona a tenido un ACV o 0 si no lo ha tenido.
 
-
+Estos datos fueron obtenidos de Kaggle en el siguiente link: [https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset](https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset)
 
 
 
