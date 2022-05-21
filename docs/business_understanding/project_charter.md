@@ -11,6 +11,10 @@
 * ¿Cómo va a ser consumido por el cliente?
 
 ## Personal
+* Juan Camilo Castro Pinto
+* Cesar Camilo Castellanos Mogollon
+* Juan David Gonzalez Angulo
+
 * ¿Quiénes están en este proyecto?
 	* Empresa a cargo del proyecto:
 		* Jefe de proyecto
