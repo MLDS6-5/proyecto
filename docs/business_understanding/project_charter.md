@@ -3,7 +3,7 @@
 ## Antecedentes empresariales
 Dentro de la explosión de innovaciones alrededor de la aplicación de tratamiento de datos e Inteligencia Artifical para solucionar problemas de salud y mejorar la calidad de vida de las personas, desde hace algún tiempo han aparecido diferentes iniciativas enfocadas en la predicción de Accidentes Cerebrovasculares (ACV) [*Stroke* en inglés], que abordan desde el tratamiento de diferentes tipos tomografías (gammagrafías, resonancias magnéticas, ultrasonografías, etc.), hasta el procesamiento de caracterizaciones indirectas como lo pueden ser el peso, la altura, la presión sanguiínea, la oxigenación en la sangre y el nivel de glucosa, entre otros.
 
-Las siguientes startups se caracterizan por ser líderes en este sector de la industria *MedTech*, los cuales sirven como ejemplo de implementación, inversión y búsqueda de mercado para la propuesta que pretendemos desarrollar:
+Las siguientes startups se caracterizan por ser líderes en este sector de la industria *MedTech*, los cuales sirven como ejemplo de implementación, inversión y búsqueda de mercado para la propuesta que pretendemos desarrollar (Fuentes: (Startus Insights)[https://www.startus-insights.com/innovators-guide/discover-5-top-stroke-detection-prevention-solutions/] & (Med-Tech News)[https://www.med-technews.com/news/ai-stroke-predictor-start-up-raises-7m-in-funding-round/]:
 
 * (See-Mode Technologies)[https://www.see-mode.com]: *See-Mode Technologies* es una startup de tecnología médica respaldada por los principales inversores tecnológicos en Asia-Pacífico. Desarrollan soluciones que ayudan a los médicos a analizar imágenes médicas de manera más rápida y precisa y predecir ACVs utilizando Machine Learning y Modelado Computacional. Cuentan con un equipo interdisciplinario de científicos e ingenieros, que están asesorados por médicos experimentados en Australia y Singapur.
 * (BeSure)[http://besure.online]: La startup con sede en los Países Bajos *BeSure* desarrolla una plataforma de atención remota centrada en la prevención de ACVs, la mitigación de riesgos cardiovasculares, el apoyo a decisiones médicas y la optimización de planes de salud. La plataforma utiliza datos de dispositivos portátiles y médicos para hacer predicciones basadas en la Inteligencia Artificial. Los trabajadores de la salud pueden usar los resultados para una mejor interacción con el paciente y una atención optimizada y, si es necesario, un tratamiento inmediato.
@@ -32,14 +32,14 @@ A través de una plataforma, a la cual se puede acceder por medio de una App o d
 * Juan David Gonzalez Angulo
 
 * ¿Quiénes están en este proyecto?
-	* Empresa a cargo del proyecto:
-		* Jefe de proyecto
-		* PM
-		* Científico(s) de datos
-		* Director de cuentas
+	* Empresa a cargo del proyecto: ACVs Prevention & Monitoring S.A.
+		* Jefe de proyecto: Juan Camilo Castro Pinto
+		* PM: César Camilo Castellanos Mogollón
+		* Científico(s) de datos: Juan David Gonzalez Angulo
+		* Director de cuentas: Edward Joseph Snowden (Temporal)
 	* Cliente:
-		* Administrador de datos
-		* Contacto con la empresa
+		* Administrador de datos: Richard Matthew Stallman
+		* Contacto con la empresa: Jaron Zepel Lanier
 	
 ## Métricas
 * ¿Cuáles son los objetivos cualitativos? (por ejemplo, reducir la fuga de usuarios)
