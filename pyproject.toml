@@ -1,14 +1,21 @@
 [tool.poetry]
-name = "packagename"
+name = "strokeanalysis"
 version = "0.1.0"
-description = "Project template for data science projects"
-authors = ["Juan Lara <julara@unal.edu.co>"]
+description = "Proyecto para el análisis de accidentes cardiovasculares"
+authors = ["Juan Camilo Castro Pinto <jccastrop@unal.edu.co>"]
 
 [tool.poetry.dependencies]
 python = "^3.9"
+scikit-learn = "^1.1.1"
+pandas = "^1.4.2"
+pydantic = "^1.9.1"
 
 [tool.poetry.dev-dependencies]
 
 [build-system]
 requires = ["poetry-core>=1.0.0"]
 build-backend = "poetry.core.masonry.api"
+
+[tool.poetry.scripts]
+stroke-train = "scripts.training.main:main"
+stroke-predict = "scripts.evaluation.main:main"

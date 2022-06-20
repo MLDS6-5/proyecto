@@ -1,12 +1,56 @@
-# Plantilla de Proyecto de Ciencia de Datos en Equipo
+# Análisis de accidentes cardiovasculares
 
-Esta plantilla es una implementación de la Plantilla de Proyecto de Ciencia de Datos en Equipo de Microsoft que se utiliza actualmente en el "Programa de Formación en Aprendizaje Automático y Ciencia de Datos" de la Universidad Nacional de Colombia.
+Programa de línea de comandos que permite entrenar un modelo de Regresión logística o una máquina de soporte vectorial para realizar la predicción de accidentes cardiovasculares en pacientes con enfermedades del corazón.
 
-Necesitarás herramientas como `poetry` (por defecto), `venv`, `pyenv` (por defecto), `renv`, `conda`, entre otras para la gestión y resolución de dependencias.
+## Requisitos
 
-Esta plantilla proporciona las siguientes carpetas:
+* Python 3.9
+* Poetry
 
-* `packagename`: poner el código fuente (clases y funciones) en esta carpeta.
-* `docs`: pon la documentación en esta carpeta.
-* `scripts`: esta carpeta debe contener los scripts/notas que se ejecutarán.
+## Instalación
 
+```sh
+git clone https://github.com/MLDS6-5/proyecto.git
+cd proyecto
+poetry install
+```
+
+## Entrenamiento
+
+Ejecutar:
+
+```sh
+stroke-train --help
+```
+
+Para entrenar un modelo de regresión logística usar:
+
+```sh
+stroke-train data/stroke-data.csv logistic --help
+```
+
+Para entrenar una máquina de soporte vectorial usar:
+
+```sh
+stroke-train data/stroke-data.csv svm --help
+```
+
+## Predicción
+
+Ejecutar:
+
+```sh
+stroke-predict --help
+```
+
+Predecir desde un archivo:
+
+```sh
+stroke-predict file --help
+```
+
+Predecir desde la línea de comandos
+
+```sh
+stroke-predict line --help
+```
