@@ -6,7 +6,7 @@ La siguiente tabla describe las columnas que posee el conjunto de datos usados p
 | --- | --- | --- |
 | id | INT | Identificador único
 | gender | CAT | Género de la persona "Male", "Female" u "Other"
-| age | INT | Género de la persona "Male", "Female" u "Other"
+| age | INT | Edad de la persona
 | hypertension | INT | 0 si la persona no tiene hipertensión. 1 si tiene hipertensión
 | heart_disease | INT | 0 si la persona no tiene enfermedades en el corazón. 1 si tiene enfermedades en el corazón
 | ever_married | CAT | "No" si la persona nunca ha estado casada. "Yes" si alguna vez estuvo casada.
